@@ -1,0 +1,4 @@
+interface:
+  display_name: "XXD Panel 161"
+  short_description: "Frame-breaking Painted Colour Field"
+  default_prompt: "Use $xxd-panel-161 to transform my photograph following the complete canonical source brief."
