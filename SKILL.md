@@ -1,6 +1,6 @@
 ---
 name: xxd-panel-161
-description: "Create Panel 161 raster artwork: Frame-breaking Painted Colour Field. Use when the user invokes xxd-panel-161 or requests this specific visual language."
+description: "XXD Panel 161｜Frame-breaking Painted Colour Field: redraws the most recognisable subject of a photo inside an irregular hand-painted rectangle of colour that sits like a second canvas on wide off-white paper, its edges showing light brush marks, bleeding and broken borders, while a few key contours, leaves, lines or dots break out past the colour field. Simplified colour blocks, a few drawn lines, 2–4 brightened colours from the photo, a small subject, very large margins and a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-161 or asks for break-the-frame, painted colour-block or framed colour-field illustration from a photo."
 ---
 
 # XXD Panel 161

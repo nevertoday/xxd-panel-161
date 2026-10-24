@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 161"
-  short_description: "Frame-breaking Painted Colour Field"
-  default_prompt: "Use $xxd-panel-161 to transform my photograph following the complete canonical source brief."
+  short_description: "框景色场越界志：在白纸上刷一块手工色场当第二画布，主体住在里面又探出一点边"
+  default_prompt: "Use $xxd-panel-161 to turn my photo into Frame-breaking Painted Colour Field artwork."

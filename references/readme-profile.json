@@ -1,0 +1,114 @@
+{
+  "skill_description": "XXD Panel 161｜Frame-breaking Painted Colour Field: redraws the most recognisable subject of a photo inside an irregular hand-painted rectangle of colour that sits like a second canvas on wide off-white paper, its edges showing light brush marks, bleeding and broken borders, while a few key contours, leaves, lines or dots break out past the colour field. Simplified colour blocks, a few drawn lines, 2–4 brightened colours from the photo, a small subject, very large margins and a few quiet words. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-161 or asks for break-the-frame, painted colour-block or framed colour-field illustration from a photo.",
+  "short_description": "框景色场越界志：在白纸上刷一块手工色场当第二画布，主体住在里面又探出一点边",
+  "zh-CN": {
+    "name": "框景色场越界志",
+    "tagline": "在白纸中间刷一块手工色场当小画布，主角住在里面，又有一点探出边外。",
+    "look": "大片米白纸面中间有一块不规则的手刷矩形色场，像白纸上的第二张画布，边缘带着刷痕、晕染和断边，四周留着很宽的白边。照片里最好认的主体用简洁色块和少量描线画在色场里，几根轮廓、枝叶、线条或碎点会越出色场的边界。颜色从照片里取 2–4 种，提亮去灰，鲜活明快。少量字词落在留白或色场边缘。",
+    "traits": [
+      "框景色场",
+      "越界构图",
+      "手刷边缘",
+      "概括手绘",
+      "大白边留白"
+    ],
+    "good": [
+      "有能伸出画框的部分的主体：一枝花、一棵树、举起手臂的人、长尾巴的猫",
+      "背景简单、主体明确的照片：窗台上的植物、海边的人、一只鸟",
+      "想做成艺术海报、展览卡片或装饰画的照片"
+    ],
+    "poor": [
+      "需要满版背景或完整场景的照片，色场之外会是大片空白",
+      "细节密集、要精确还原的图：机械、证件照、复杂建筑",
+      "想要边缘干净规整的模板化色块或写实转绘的需求"
+    ]
+  },
+  "en": {
+    "name": "Frame-breaking Painted Colour Field",
+    "tagline": "Paints a small hand-brushed colour block on white paper as a second canvas, with the subject spilling just past its edge.",
+    "look": "In the middle of a wide off-white sheet sits an irregular hand-brushed rectangle of colour, like a second canvas on the paper, its edges showing brush marks, bleeding and broken borders, with broad white margins all round. The most recognisable subject is painted inside it in simple colour blocks and a few drawn lines, while a few contours, leaves, lines or dots cross over the edge of the colour field. Two to four colours from the photo are brightened into a fresh, lively palette. A few words sit in the white space or along the colour edge.",
+    "traits": [
+      "Framed colour field",
+      "Break the frame",
+      "Brushed edges",
+      "Simplified painting",
+      "Wide white margins"
+    ],
+    "good": [
+      "Subjects with a part that can reach outside the frame: a flower stem, a tree, someone raising an arm, a cat with a long tail",
+      "Photos with a simple background and a clear subject: a plant on a windowsill, a person by the sea, a bird",
+      "Photos you want as an art print, an exhibition card or a decorative picture"
+    ],
+    "poor": [
+      "Photos that need a full-bleed background or the whole scene, as everything outside the colour field stays blank",
+      "Dense, detailed images that must be exact: machinery, ID photos, complex buildings",
+      "Requests for neat, hard-edged template blocks or a realistic redraw"
+    ]
+  },
+  "ja": {
+    "name": "色面フレームと越境構図",
+    "tagline": "白い紙の中央に手で刷いた色面を第二の画面として置き、主役が少しだけその外にはみ出します。",
+    "look": "広い生成りの紙の中央に、手で刷いた不揃いな長方形の色面があり、紙の上のもう一枚の画面のように見えます。縁には刷毛の跡、にじみ、途切れた輪郭が残り、四方には広い白い縁が残ります。写真でいちばん目立つ主役は、簡潔な色面と少しの描線でその中に描かれ、いくつかの輪郭、枝葉、線、点が色面の外へはみ出します。色は写真から二〜四色を取り、明るくくすみを抜いて生き生きとまとめます。言葉は余白か色面の縁に少しだけ置きます。",
+    "traits": [
+      "色面フレーム",
+      "はみ出す構図",
+      "刷毛の縁",
+      "簡潔な手描き",
+      "広い白い縁"
+    ],
+    "good": [
+      "枠の外に伸ばせる部分がある主役：花の茎、木、腕を上げた人、しっぽの長い猫",
+      "背景がシンプルで主役がはっきりした写真：窓辺の植物、海辺の人、鳥",
+      "アートポスター、展示カード、飾る絵にしたい写真"
+    ],
+    "poor": [
+      "全面の背景や場面全体が必要な写真（色面の外は大きな空白になります）",
+      "細部が密で正確さが必要な画像：機械、証明写真、複雑な建物",
+      "縁のきっちりしたテンプレート的な色面や写実的な描き写しを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "회화적 색면과 경계 넘기",
+    "tagline": "흰 종이 한가운데 손으로 칠한 색면을 두 번째 캔버스처럼 두고, 주인공이 그 경계 밖으로 살짝 나옵니다.",
+    "look": "넓은 미색 종이 가운데에 손으로 칠한 불규칙한 사각 색면이 있어, 종이 위의 두 번째 캔버스처럼 보입니다. 가장자리에는 붓자국, 번짐, 끊긴 테두리가 남고 사방으로 넓은 흰 여백이 있습니다. 사진에서 가장 알아보기 쉬운 주인공은 간결한 색면과 약간의 선으로 그 안에 그려지고, 몇몇 윤곽, 가지와 잎, 선, 점이 색면 밖으로 넘어갑니다. 색은 사진에서 두세 가지, 많게는 네 가지를 골라 밝고 생기 있게 정리합니다. 글은 여백이나 색면 가장자리에 조금만 둡니다.",
+    "traits": [
+      "색면 프레임",
+      "경계 넘는 구도",
+      "붓질 가장자리",
+      "간결한 손그림",
+      "넓은 흰 여백"
+    ],
+    "good": [
+      "틀 밖으로 뻗을 부분이 있는 주인공: 꽃 줄기, 나무, 팔을 든 사람, 꼬리 긴 고양이",
+      "배경이 단순하고 주인공이 분명한 사진: 창가 화분, 바닷가의 사람, 새",
+      "아트 포스터, 전시 카드, 걸어 둘 그림으로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "꽉 찬 배경이나 장면 전체가 필요한 사진(색면 밖은 큰 빈 공간이 됩니다)",
+      "세부가 빽빽하고 정확해야 하는 이미지: 기계, 증명사진, 복잡한 건물",
+      "가장자리가 반듯한 템플릿 색면이나 사실적인 옮겨 그리기를 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "حقل لوني مرسوم يتجاوز الإطار",
+    "tagline": "يرسم بالفرشاة مستطيلاً لونياً صغيراً على ورق أبيض كلوحة ثانية، ويخرج العنصر قليلاً عن حافته.",
+    "look": "في وسط ورقة واسعة بلون أبيض مصفرّ يقع مستطيل لوني غير منتظم مرسوم بالفرشاة، كأنه لوحة ثانية على الورق، تظهر على حوافه آثار الفرشاة وانتشار اللون وحدود متقطعة، وتحيط به هوامش بيضاء عريضة. يُرسم أوضح عنصر في الصورة داخله بكتل لونية بسيطة وخطوط قليلة، بينما تعبر بعض الحدود أو الأوراق أو الخطوط أو النقاط حافة الحقل اللوني إلى الخارج. تُفتَّح من الصورة لونان إلى أربعة ألوان في مجموعة منعشة وحيوية. وتقع كلمات قليلة في الفراغ أو على حافة اللون.",
+    "traits": [
+      "حقل لوني مؤطر",
+      "كسر الإطار",
+      "حواف بالفرشاة",
+      "رسم مبسّط",
+      "هوامش بيضاء عريضة"
+    ],
+    "good": [
+      "عناصر فيها جزء يمكن أن يمتد خارج الإطار: ساق زهرة، شجرة، شخص يرفع ذراعه، قطة بذيل طويل",
+      "صور ذات خلفية بسيطة وعنصر واضح: نبتة على حافة نافذة، شخص على شاطئ البحر، طائر",
+      "صور تريدها لوحة فنية مطبوعة أو بطاقة معرض أو صورة للزينة"
+    ],
+    "poor": [
+      "صور تحتاج إلى خلفية تملأ المساحة أو إلى المشهد كله، إذ يبقى كل ما خارج الحقل اللوني فارغاً",
+      "صور كثيفة التفاصيل يجب أن تكون دقيقة: آلات، صور الهوية، مبانٍ معقدة",
+      "طلب كتل لونية قالبية بحواف حادة أو إعادة رسم واقعية"
+    ]
+  }
+}
